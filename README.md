@@ -70,7 +70,7 @@
 ---
 
 
-## 😄 Pronouns:
+## 🤔 Pronouns:
 - He/Him
 ---
 ## ⚡ Fun fact:
