@@ -1,4 +1,5 @@
 ![GitHub Banner](https://raw.githubusercontent.com/YASEENKHANO/Pakistan-Independence-Card/refs/heads/main/%2B923339498360.png)
+
 <h1 align="center">👋 Hi I'm Yaseen</h1>
 <h2 align="center">
   Fullstack Developer
@@ -45,11 +46,11 @@
 
 ### Languages and Tools:
 [![My Skills](https://skillicons.dev/icons?i=github,git,postman,azure,bootstrap,cs,dotnet,js,&perline=5)](https://skillicons.dev)
-
+<!---
 ![Asif Taj's GitHub stats](https://github-readme-stats.vercel.app/api?username=axiftaj&show_icons=true&theme=dark)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=axiftaj&theme=dark)
-
+--->
 
 
 
@@ -71,13 +72,13 @@
 
 ## 😄 Pronouns:
 - He/Him
-
+---
 ## ⚡ Fun fact:
 - Quoted not Mine😄😄 "Debugging is like being the detective in a crime movie where you are also the murderer,"
-
+---
 ## 📌 A Little More About Me  
 - 🤔 I’m looking for help to a get a Job/Client
-
+---
   <br>
 ⭐️ From [YASEENKHANO](https://github.com/YASEENKHANO)
 
