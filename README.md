@@ -17,7 +17,7 @@
 - 🎓 Computer Science Graduate with expertise in **ASP.NET MVC**, **.NET Core**, and **React**.  
 - 🌱 Always exploring new technologies to enhance my skill set.  
 - A strong believer in the power of small steps leading to big changes.  
-- 💬 Ask me about my project or your requirements.
+- 💬 Ask me about my projects or tell me your requirements.
 ---
 ## 📫 Let's Connect  / Reach me 
 <div id="badges">
