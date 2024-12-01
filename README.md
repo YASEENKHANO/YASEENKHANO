@@ -63,10 +63,15 @@
 ---
 
 ## 💡 Interests  
-🎥 Creating TikTok tutorials on **ASP.NET MVC**, **C#**, and **web development**.  
+🎥 Learning & Creating tutorials on **ASP.NET MVC**, **C#**, and **web development**.  
 📚 Writing LinkedIn posts and articles on **software development**.  
 🌐 Helping local businesses in Bannu embrace digital solutions.  
 
+#### Research Interests:
+- Software Engineering:
+- Cloud Computing:
+- Artificial Intelligence:
+- Cybersecurity:
 ---
 
 
