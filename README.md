@@ -12,7 +12,7 @@
 
 ---
 ## 📌 About Me  
-- 💼 Currently working on: [HRMS (HumanAsAnAsset)](link-to-project-repo)  
+- 💼 Currently working on: [BetterBooks (Book Selling Site)](https://github.com/YASEENKHANO/BetterBooks) 
 - 🏆 Certified in **Google Soft Skills Program** and **AI Productivity Hacks**.  
 - 🎓 Computer Science Graduate with expertise in **ASP.NET MVC**, **.NET Core**, and **React**.  
 - 🌱 Always exploring new technologies to enhance my skill set.  
@@ -45,7 +45,7 @@
 ---
 
 ### Languages and Tools:
-[![My Skills](https://skillicons.dev/icons?i=github,git,postman,azure,bootstrap,cs,dotnet,js,&perline=5)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=cs,dotnet,bootstrap,github,git,postman,azure,js,&perline=5)](https://skillicons.dev)
 <!---
 ![Asif Taj's GitHub stats](https://github-readme-stats.vercel.app/api?username=axiftaj&show_icons=true&theme=dark)
 
