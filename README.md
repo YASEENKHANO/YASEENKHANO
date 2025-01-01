@@ -24,9 +24,9 @@
    <a href="https://www.linkedin.com/in/muhammad-yaseen-khan-16790919a">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedIn&logoColor=white" alt="LinkedIn Badge"/>
   </a>
-  <a href="https://github.com/YASEENKHANO">
+ <!--- <a href="https://github.com/YASEENKHANO">
     <img src="https://img.shields.io/badge/Github-white?style=for-the-badge&logo=Github&logoColor=black" alt="Github Badge"/>
-  </a>
+  </a>-->
   <a href="https://www.youtube.com/channel/UCzvRaprYPhvAplMK36Gu0kw">
     <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
   </a>
@@ -56,9 +56,15 @@
 
 
 ## 🌟 Projects  
-- [**HRMS (HumanAsAnAsset)**](link-to-project-repo): A comprehensive HR management solution.  
+- [**HRMS (HumanAsAnAsset)**](https://github.com/YASEENKHANO/HAASFYP): A comprehensive HR management solution.  
 - [**Local Business Directory (Bannu)**](link-to-project-repo): Connecting local businesses to customers.  
-- [**Book Management App**](link-to-project-repo): Built using ASP.NET Core Web API and React.  
+- [**Ecommerece MVC Web App**](https://github.com/YASEENKHANO/EcommereceMVC/tree/master): Built using ASP.NET MVC with EntityFramework.  
+- [**Book Management MVC Core Web App**](https://github.com/YASEENKHANO/BetterBooks/tree/master): Built using ASP.NET Core with EntityFramework.
+-   The same project is being built in Razor Pages Below.
+- [**Book Management MVC Core Web App**](https://github.com/YASEENKHANO/BooksLibraryRazorPages): Built using ASP.NET Core with EntityFramework ,Razor Pages.
+
+- Next Project will be
+ - [**Local Business Directory (Bannu)**]: Connecting local businesses to customers.  
 
 ---
 
@@ -82,7 +88,7 @@
 - Quoted not Mine😄😄 "Debugging is like being the detective in a crime movie where you are also the murderer,"
 ---
 ## 📌 A Little More About Me  
-- 🤔 I’m looking for help to a get a Job/Client
+- 🤔 I’m looking for help to a get a Job/Client/Internship
 ---
   <br>
 ⭐️ From [YASEENKHANO](https://github.com/YASEENKHANO)
