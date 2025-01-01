@@ -26,7 +26,10 @@
   </a>
  <!--- <a href="https://github.com/YASEENKHANO">
     <img src="https://img.shields.io/badge/Github-white?style=for-the-badge&logo=Github&logoColor=black" alt="Github Badge"/>
-  </a>-->
+  </a>    -->
+   <a href="https://bit.ly/WantToGmailMe">
+    <img src="https://img.shields.io/badge/gmail-red?style=for-the-badge&logo=gmail&logoColor=white" alt="Youtube Badge"/>
+  </a>
   <a href="https://www.youtube.com/channel/UCzvRaprYPhvAplMK36Gu0kw">
     <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
   </a>
