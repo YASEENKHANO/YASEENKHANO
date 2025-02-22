@@ -61,7 +61,8 @@
 ## 🌟 Projects  
 - [**HRMS (HumanAsAnAsset)**](https://github.com/YASEENKHANO/HAASFYP): A comprehensive HR management solution.  
 - [**Local Business Directory (Bannu)**](link-to-project-repo): Connecting local businesses to customers.  
-- [**Ecommerece MVC Web App**](https://github.com/YASEENKHANO/EcommereceMVC/tree/master): Built using ASP.NET MVC with EntityFramework.  
+- [**Ecommerece MVC Web App**](https://github.com/YASEENKHANO/EcommereceMVC/tree/master): Built using ASP.NET MVC with EntityFramework.
+- [**TaskManagementSystem MVC Web App**](https://github.com/YASEENKHANO/TaskManagementSystem_MVC): Built using ASP.NET MVC with EntityFramework SQL.  
 - [**Book Management MVC Core Web App**](https://github.com/YASEENKHANO/BetterBooks/tree/master): Built using ASP.NET Core with EntityFramework.
 -   The same project is being built in Razor Pages Below.
 - [**Book Management MVC Core Web App**](https://github.com/YASEENKHANO/BooksLibraryRazorPages): Built using ASP.NET Core with EntityFramework ,Razor Pages.
