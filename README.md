@@ -60,7 +60,7 @@
 
 ## 🌟 Projects  
 -[**GulfVilla MVC Core Web App**](https://github.com/YASEENKHANO/Villa/tree/master): Built using ASP.NET Core with EntityFramework using Clean Architecture. [Live Here](https://gulfvilla.runasp.net/)
-- [**Book Management MVC Core Web App**](https://github.com/YASEENKHANO/BetterBooks/tree/master): Built using ASP.NET Core with EntityFramework.
+- [**Book Management MVC Core Web App**](https://github.com/YASEENKHANO/BetterBooks/tree/master): Built using ASP.NET Core with EntityFramework.[Live Here](https://betterbooks.runasp.net/)
 -   The same project is being built in Razor Pages Below.
 - [**Book Management MVC Core Web App**](https://github.com/YASEENKHANO/BooksLibraryRazorPages): Built using ASP.NET Core with EntityFramework ,Razor Pages.
 - [**HRMS (HumanAsAnAsset)**](https://github.com/YASEENKHANO/HAASFYP): A comprehensive HR management solution.  
