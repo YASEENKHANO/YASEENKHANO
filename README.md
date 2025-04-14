@@ -59,13 +59,14 @@
 
 
 ## 🌟 Projects  
-- [**HRMS (HumanAsAnAsset)**](https://github.com/YASEENKHANO/HAASFYP): A comprehensive HR management solution.  
-- [**Local Business Directory (Bannu)**](link-to-project-repo): Connecting local businesses to customers.  
-- [**Ecommerece MVC Web App**](https://github.com/YASEENKHANO/EcommereceMVC/tree/master): Built using ASP.NET MVC with EntityFramework.
-- [**TaskManagementSystem MVC Web App**](https://github.com/YASEENKHANO/TaskManagementSystem_MVC): Built using ASP.NET MVC with EntityFramework SQL.  
+-[**GulfVilla MVC Core Web App**](https://github.com/YASEENKHANO/Villa/tree/master): Built using ASP.NET Core with EntityFramework using Clean Architecture. [Live Here](https://gulfvilla.runasp.net/)
 - [**Book Management MVC Core Web App**](https://github.com/YASEENKHANO/BetterBooks/tree/master): Built using ASP.NET Core with EntityFramework.
 -   The same project is being built in Razor Pages Below.
 - [**Book Management MVC Core Web App**](https://github.com/YASEENKHANO/BooksLibraryRazorPages): Built using ASP.NET Core with EntityFramework ,Razor Pages.
+- [**HRMS (HumanAsAnAsset)**](https://github.com/YASEENKHANO/HAASFYP): A comprehensive HR management solution.  
+- [**Ecommerece MVC Web App**](https://github.com/YASEENKHANO/EcommereceMVC/tree/master): Built using ASP.NET MVC with EntityFramework.
+- [**TaskManagementSystem MVC Web App**](https://github.com/YASEENKHANO/TaskManagementSystem_MVC): Built using ASP.NET MVC with EntityFramework SQL.  
+
 
 - Next Project will be
  - [**Local Business Directory (Bannu)**]: Connecting local businesses to customers.  
