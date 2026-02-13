@@ -49,18 +49,11 @@
 
 ### Languages and Tools:
 [![My Skills](https://skillicons.dev/icons?i=cs,dotnet,bootstrap,github,git,postman,azure,js,&perline=5)](https://skillicons.dev)
-<!---
-![Asif Taj's GitHub stats](https://github-readme-stats.vercel.app/api?username=axiftaj&show_icons=true&theme=dark)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=axiftaj&theme=dark)
---->
-
-
 
 
 ## 🌟 Projects  
 - [**Local Business Directory (Bannu)**](https://businesseslisting.netlify.app/): Connecting local businesses to customers.  
--[**GulfVilla MVC Core Web App**](https://github.com/YASEENKHANO/Villa/tree/master): Built using ASP.NET Core with EntityFramework using Clean Architecture. [Live Here](https://gulfvilla.runasp.net/)
+- [**GulfVilla MVC Core Web App**](https://github.com/YASEENKHANO/Villa/tree/master): Built using ASP.NET Core with EntityFramework using Clean Architecture. [Live Here](https://gulfvilla.runasp.net/)
 - [**Book Management MVC Core Web App**](https://github.com/YASEENKHANO/BetterBooks/tree/master): Built using ASP.NET Core with EntityFramework.[Live Here](https://betterbooks.runasp.net/)
 -   The same project is being built in Razor Pages Below.
 - [**Book Management MVC Core Web App**](https://github.com/YASEENKHANO/BooksLibraryRazorPages): Built using ASP.NET Core with EntityFramework ,Razor Pages.
